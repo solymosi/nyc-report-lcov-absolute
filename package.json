@@ -1,0 +1,32 @@
+{
+  "name": "nyc-report-lcov-absolute",
+  "version": "1.0.0",
+  "description": "LCOV reporter for nyc that outputs absolute file paths to lcov.info",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solymosi/nyc-report-lcov-absolute.git"
+  },
+  "keywords": [
+    "nyc",
+    "istanbul",
+    "report",
+    "lcov",
+    "absolute"
+  ],
+  "author": "Mate Solymosi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solymosi/nyc-report-lcov-absolute/issues"
+  },
+  "homepage": "https://github.com/solymosi/nyc-report-lcov-absolute#readme",
+  "peerDependencies": {
+    "istanbul-reports": "^3.0.0"
+  },
+  "devDependencies": {
+    "istanbul-reports": "^3.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/"
+  }
+}
